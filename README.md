@@ -2,8 +2,7 @@
 
 [Click here for browser preview..](https://fatihcaliss.github.io/Checkout-Form-Page/)
 
-✔ I prepared this repo for my bootcamp assignment.<br>
-✔ I improved my ability to make the web page responsive.<br>
+<b> I prepared this repo for my bootcamp assignment. I improved my ability to make the web page responsive.</b><br>
 :boom: I used; <br>
 ✔HTML Forms <br>
 ✔HTML Form Attributes<br>
@@ -11,7 +10,11 @@
 ✔HTML Input Types<br>
 ✔HTML Input Attributes<br>
 ✔HTML Input Form Attributes.<br>
-:point_right: In V.2 I also added JS <br> 
+
+# :point_right: In V.2- I also added JS <br><hr>
+
+ <b> You can click  "+" , "-" signs and "remove" button. This code will calculate the price, amound and total price.</b> <br>
+ :boom: I used; <br>
 ✔ DOM Elements <br>
 ✔ DOM HTML <br>
 ✔ DOM Forms <br>
