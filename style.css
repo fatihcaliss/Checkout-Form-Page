@@ -82,7 +82,7 @@ img{
     flex-direction: column;
 }
 
-.content p:last-of-type {
+.content p:nth-child(3) {
     margin-top: auto;
     border: 1px solid rgb(170, 167, 167);
     border-radius: .2rem;
@@ -90,8 +90,26 @@ img{
     display: flex;
     justify-content: space-between;
     padding: .3rem  ;
+}
+
+.content p:last-of-type {
+    margin-top: auto;
+    border: .1px solid rgb(170, 167, 167);
+    border-radius: .2rem;
+    width: 5rem;
+    display: flex;
+    justify-content: space-between;
+    padding: .3rem;
+    color: rgba(43, 41, 41, 0.849);
+    cursor: pointer;
 
 }
+
+span i {
+    cursor: pointer;
+}
+
+
 .content span {
     background-color: #E3E3E3;
 }
@@ -146,7 +164,7 @@ i {
     opacity: .7;
 }
 
-.promosyon {
+.price {
     color: orange;
 }
 del {
@@ -184,4 +202,3 @@ del {
         width: 90%;
     }
 }
-
