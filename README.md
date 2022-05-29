@@ -1,6 +1,6 @@
-# Checkout-Form-Page
+# Checkout-Form-Page <hr>
 
-[Click here for browser preview..](https://fatihcaliss.github.io/Checkout-Form-Page/)
+# :point_right: [Click here to see on browser](https://fatihcaliss.github.io/Checkout-Form-Page/)
 
 <b> I prepared this repo for my bootcamp assignment. I improved my ability to make the web page responsive.</b><br>
 :boom: I used; <br>
