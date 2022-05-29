@@ -38,6 +38,9 @@ function subtracting(item){
     if(payment.innerText == '$19.00'){ 
         shippingPrice.innerText = '$0.00';
         payment.innerText = '$0.00';
+    }else{
+        shippingPrice.innerText = '$0.00';
+        payment.innerText = '$0.00';
     }
 }}
 
